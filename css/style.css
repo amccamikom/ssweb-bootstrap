@@ -1,0 +1,78 @@
+#home {
+	padding: 150px 0;
+	background: url('../img/41.jpg');
+	background-size: cover;
+	background-position: bottom;
+	color: #fff;
+	text-align: center;
+}
+
+#whatwedo, #works, #posts, #contact {
+	padding: 80px 0;
+}
+
+#whatwedo {
+	text-align: center;
+}
+#whatwedo .glyphicon {
+	font-size: 62px;
+}
+
+#works {
+	background: linear-gradient(45deg, red, purple);
+}
+#works a {
+	display: block;
+	padding: 20px;
+	margin-bottom: 20px;
+	background: rgba(255, 255, 255, 0.3);
+}
+
+#works a:hover {
+	background: #ffffff;
+}
+
+#contact {
+	background:url('../img/37.jpg');
+	background-size: cover;
+}
+
+.section-title {
+	margin-top: 0;
+	margin-bottom: 40px;
+	font-size: 36px;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: -2px;
+}
+.section-title:before, .section-title:after {
+	content: "//";
+	margin: 0 10px;
+	opacity: 0.4;
+}
+
+
+#works .section-title, #contact .section-title {
+	color: #fff;
+}
+
+.navbar {
+	background: none;
+	border: none;
+}
+
+.affix {
+	background: purple
+}
+
+.navbar-brand, .navbar-default .navbar-nav > li > a {
+	color: #fff;
+}
+
+
+
+
+
+
+
+
