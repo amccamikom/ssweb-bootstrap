@@ -7,4 +7,5 @@ Programming AMCC pada 22-23 Desember 2016.
 * Buka langsung di http://amccamikom.github.io/ssweb-bootstrap
 
 Semoga bermanfaat dan teteup semangat belajar webnya. :smile:
+---
 **AMCC** - *Learning by Doing, Learning by Teaching*
